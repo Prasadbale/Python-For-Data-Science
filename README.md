@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the "Python for Data Science" Repository!</h1>
 
-<p align="center">
+<p align="left">
   This collection of Jupyter notebooks is your gateway to mastering Python and its powerful libraries for data analysis, visualization, and machine learning. Whether you're a beginner looking to get started or an experienced data scientist seeking to deepen your skills, you'll find a wealth of resources here.
 </p>
 
