@@ -10,7 +10,7 @@
 
 - **Exploratory Data Analysis**: Learn how to explore, clean, and preprocess datasets to extract valuable insights.
 
-- **Data Visualization**: Discover how to create stunning visualizations using libraries like Matplotlib, Seaborn, and Plotly.
+- **Data Visualization**: Discover how to create stunning visualizations using libraries like Matplotlib and Seaborn.
 
 - **Best Practices**: Gain insights into best practices, tips, and tricks for effective data analysis and model building.
 
